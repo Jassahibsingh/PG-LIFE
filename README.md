@@ -1,2 +1,2 @@
 # PG-LIFE
-A complete project on Student accomodation website.
+A complete Full stack project on Student accomodation website.
